@@ -1,0 +1,97 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Single-Page CV</title>
+    
+    <!-- SEO Meta Tags -->
+
+    <meta name="description" content="Resume of ER, a Project Administrator with experience in HTML, CSS, JavaScript, and more.">
+    <meta name="keywords" content="ER, Project Administrator, Resume, HTML, CSS, JavaScript, Skills">
+
+    <!-- Open Graph Tags -->
+     <meta property="og:title" content="Single-Page CV">
+     <meta property="og:description" content="Professional CV of x, showcasing skills, education, and experience in project administration and web development.">
+     <meta property="og:type" content="website">
+
+     <!--Favicon-->
+     <link rel="icon" href="cv_ico.ico" type="image/x-icon">
+
+
+<style>
+    body {
+        font-family:Arial, Helvetica, sans-serif;
+        padding: 50px;
+        max-width: 800px;
+        margin: auto;
+    }
+
+    hr {
+        color:black;
+    }
+
+    h3 {
+        color: green;
+    }
+
+    h5{
+        color:blue;
+    }
+</style>
+</head>
+<body>
+
+<header> 
+    <hr>
+    <h1>Your Name</h1>
+    <h3>Junior Frontend Developer</h3>
+    <p> 123 Your Street</br> Your City, ST 12345 </br> (123) 456- 7890 </br> no_reply@example.com </p>
+    </hr>
+</header>
+
+<!--Skills Section-->
+<section>
+    <h3>Skills</h3>
+    <p>HTML, CSS, JavaScript, Accessibility, Figma to Design, Responsive Web Design, Technical Writing, Presentation</p>
+</section>
+
+<!--Education Section-->
+<section>
+    <h3>Education</h3>
+    <h5>School Name, Location - Degree</h5>
+    <p>Month 20xx to Month 20xx</p>
+    <p>List of exciting things you did at university</p>
+</section>
+
+<!--Experience Section-->
+<section>
+    <h3>Experience</h3>
+    <article>
+        <h5>Company Name, Location - Title</h5>
+        <p>Month 20xx to Month 20xx</p>
+        <ul>
+            <li>List of achievements</li>
+            <li>List of achievements</li>
+            <li>List of achievements</li>
+        </ul>
+        <p>Skills: List of Skills used or gained at this company</p>
+    </article>
+
+    <article>
+        <h5>Company Name, Location - Title</h5>
+        <p>Month 20xx to Month 20xx</p>
+        <ul>
+            <li>List of achievements</li>
+            <li>List of achievements</li>
+            <li>List of achievements</li>
+        </ul>
+        <p>Skills: List of Skills used or gained at this company</p>
+    </article>
+</section>
+
+<section>
+    <h3>Across the Internet</h3>
+    <p> Add your LinkedIn, GitHub profile links</p>
+</section>
+</body>
+</html>
